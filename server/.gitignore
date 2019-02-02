@@ -1,0 +1,15 @@
+logs/
+npm-debug.log
+node_modules/
+coverage/
+.idea/
+run/
+.DS_Store
+*.swp
+package-lock.json
+
+app/public/img/*.*
+!app/public/img/.gitkeeper
+
+app/public/file/*.*
+!app/public/file/.gitkeeper
